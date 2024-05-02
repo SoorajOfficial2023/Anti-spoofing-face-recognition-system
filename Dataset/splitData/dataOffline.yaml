@@ -1,0 +1,7 @@
+path: /home/sooraj/AI/antispoofing for face recognition project/Dataset/splitData/dataOffline.yaml
+train: train/images
+val: val/images
+test: test/images
+
+nc : 2
+names : ['fake', 'real']
